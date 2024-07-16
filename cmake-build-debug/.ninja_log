@@ -1,0 +1,6 @@
+# ninja log v5
+3	1074	7321925158497731	CMakeFiles/Minesweeping.dir/main.cpp.obj	4f208aaea999ef71
+1074	1218	7321925159886857	Minesweeping.exe	788469ac5942e466
+1	232	7428485357818813	build.ninja	76e07f098bc493a9
+6	993	7428487331279397	CMakeFiles/Minesweeping.dir/main.cpp.obj	4f208aaea999ef71
+994	1152	7428487332777408	Minesweeping.exe	4780ecda32958358

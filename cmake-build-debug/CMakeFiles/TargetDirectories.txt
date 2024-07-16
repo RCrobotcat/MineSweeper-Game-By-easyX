@@ -1,0 +1,3 @@
+C:/Users/Yujie Liu/Desktop/School Work/YearOne/C language/practice/Minesweeping/cmake-build-debug/CMakeFiles/Minesweeping.dir
+C:/Users/Yujie Liu/Desktop/School Work/YearOne/C language/practice/Minesweeping/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yujie Liu/Desktop/School Work/YearOne/C language/practice/Minesweeping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
